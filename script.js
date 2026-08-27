@@ -17,8 +17,7 @@ if (toggle && nav) {
 
 // Portfolio asset links
 const assetLinks = {
-  'assets/Uyo_V_Alhassan_Resume.pdf': 'assets/Uyo_Alhassan_Executive_Resume.pdf',
-  'assets/Uyo_Alhassan_Wazuh_Detection_Engineering_Case_Study.pdf': 'assets/Uyo_Alhassan_Wazuh_Detection_Engineering_Case_Study_v3.pdf'
+  'assets/Uyo_V_Alhassan_Resume.pdf': 'assets/Uyo_Alhassan_Executive_Resume.pdf'
 };
 
 document.querySelectorAll('a[href]').forEach((link) => {
